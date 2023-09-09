@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/thrashxr/results-summary-component)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Live Site URL: [Live](https://thrashxr.github.io/results-summary-component/)
 
 ### Built with
 
